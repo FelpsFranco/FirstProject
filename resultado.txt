@@ -1,0 +1,25 @@
+Safeware Tecnologia
+Data de Início: 01/02/2022 
+Data Final 28/02/2022
+
+
+              Quantidade de Chamadors por Analista
+---------------------------------------------------------------------------
+Nr.  Analista       Quantidade de Chamados     % Dos Chamados 
+
+1    Felipe                   179                    18 %
+2    Gabriel                  113                    11 %
+3    Guilherme                93                     9  %
+4    John                     243                    24 %
+5    Pedro                    118                    12 %
+6    Osnaldo                  15                     1  %
+7    Helber                   13                     1  %
+8    Daniel                   116                    11 %
+9    Joao                     19                     2  %
+10   Jose                     1                      0  %
+11   Vanessa                  26                     3  %
+12   Walmir                   85                     8  %
+
+
+Chamados Totais: 1021
+Media de Chamados: 85
